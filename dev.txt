@@ -1,2 +1,3 @@
 hi
-A Developer Here!!!
+A Developer Here!!! [ to use git fetch + merge ]
+Editing File Again to use git pull
